@@ -3,3 +3,5 @@
 *.txt
 library.py
 test.py
+*.png
+*.jpg
